@@ -1,0 +1,14 @@
+01) Classes obtain characteristics from the real world from the details the users imbues them to.
+
+For example: A person class might abstract a real person from the following characteristics:
+
+Name, Age, Sex, Height, Weight, Nationality and many other characteristics a real person has.
+
+
+02) A class is the whole and the object is a member of the whole. 
+For example: Class Ant, object Fire (as in fire ants)
+
+
+03) OOP was developed to allow an easier maintenance of codes. Differently of structed programming
+the object-oriented programming allows the programmer to change characteristics of an function without
+disrupting the logic of others parts of the code.

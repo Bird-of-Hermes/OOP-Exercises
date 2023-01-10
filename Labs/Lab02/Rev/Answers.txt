@@ -1,0 +1,6 @@
+1. Classes and primitive types can be used as function types
+
+2. Through private:
+
+3. Methods are the means to access the attributes because the attributes themselves are inaccessible, so 
+they can only be modified through methods.
