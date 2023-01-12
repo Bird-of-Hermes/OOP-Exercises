@@ -1,0 +1,6 @@
+01) All these are the same, different names but same thing.
+
+02) Plain-Old Data. Registers are the ones considered PODs but Classes can also be a POD as long as
+all of its members(attributes+methods) are public.
+
+03) Data integrity and organization

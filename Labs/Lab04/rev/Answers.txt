@@ -1,0 +1,5 @@
+1) The :: operator is used to access classes outside it's local scope.
+
+2) Inside the classes local scopes.
+
+3) By explicitly using the 'inline' before the function type or by defining inside a class scope.

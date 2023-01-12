@@ -1,0 +1,9 @@
+1) Constructors are called during an object's creation.
+
+2) Default constructors are the constructors the compiler assings automatically if the developer
+doesn't declare one. It's finality is to initialize an object.
+
+3) Jogo ABC = {"Nenhum", 0}; Jogo ABC {"Nenhum", 0}; Jogo ABC; Jogo ABC{}; Jogo ABC = {};
+    Jogo ABC("Nenhum"); Jogo ABC = Jogo("Nenhum");
+
+Jogo(const string& titulo = "Nenhum", float valor = 0);
