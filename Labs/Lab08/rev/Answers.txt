@@ -1,0 +1,5 @@
+01) ADT are abstract data structures. The title speaks for itself but they're basically classes.
+
+02) Constants can be created globally (outside a class) or using the 'static' keyword or using an enum.
+
+03) Using the static keyword or defining an enum.
