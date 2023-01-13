@@ -1,0 +1,9 @@
+01) The 'this' pointer can be used to allow arguments to have the same name of attributes without having a
+typo conflict, as in: 'int Attribute' and 'arg Attribute'. With the 'this' pointer we can do 
+'this->Attribute = Attribute;' and the compiler won't complain.
+
+It can also be used to return the object of a method. Example: ABC.method(){return *this;} will return ABC
+
+02) 'this' is a pointer, it holds the address of an object; '*this' will obtain it's contents.
+
+03) both pointers are Jogo pointers, but void 'Jogo::exibir() const;' is a const Jogo pointer
