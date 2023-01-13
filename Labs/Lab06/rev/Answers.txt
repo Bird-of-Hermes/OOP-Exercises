@@ -1,0 +1,7 @@
+01) Destructors are called automatically after the scope of the object ends, whenever it may be.
+
+02) No, as long as your program isn't dinamically allocating memory there's no need to create a
+destructor manually. If a constructor is not declared/defined the compiler will assign one automatically.
+
+03) Destructors are used to release the memory allocated by the object once they're of no use or their
+ scopes end.
